@@ -7,4 +7,6 @@ Dual tone multi frequency (DTMF) is a technology used with touch tone phones, be
 We can use python's scipy.io library to read WAV file as array and converted it into numpy array. After that used numpy's FFT (Fourier Transform) to convert this time domain signal into frequency domain. After that identified its relevant frequencies.
 ![1712428623763](https://github.com/user-attachments/assets/0f77e58d-59c6-42ff-92f3-299e2d67f451)
 
+WAV format recorded audio can be use to decode.
+
 
